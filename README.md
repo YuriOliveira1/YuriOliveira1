@@ -23,7 +23,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-YuriOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/yuri-oliveiras/)
-
 [![Outlook Badge](https://img.shields.io/badge/yuri_souzaln@outlook.com-0078D4?style=flat-square&for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
 
