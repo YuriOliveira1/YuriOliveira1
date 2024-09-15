@@ -1,8 +1,7 @@
 
 ## Sobre mim
 
-- 🎓 Estudando Engenheria de Software na Uni-BH.
-- 🌱 Aprendendo mais sobre Java, SpringBoot, e Jwt.
+- 🎓 Estudando Engenheria de Software.
 
 ## Minhas Skills
 
